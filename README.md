@@ -2,7 +2,7 @@
 
 Tactile is a Jekyll theme for [GitHub Pages](https://pages.github.com).
 
-You can preview the theme at http://pages-theme.github.io/tactile.
+You can preview the theme at http://pages-themes.github.io/tactile.
 
 ### Usage
 
