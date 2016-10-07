@@ -1,4 +1,4 @@
-# `jekyll-theme-tactile` gem
+# `jekyll-theme-tactile`
 
 Tactile is a Jekyll theme for [GitHub Pages](https://pages.github.com).
 
