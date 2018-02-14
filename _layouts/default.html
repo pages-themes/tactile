@@ -26,11 +26,13 @@
           <a href="{{ site.github.zip_url }}" id="download-zip" class="button"><span>Download .zip</span></a>
           <a href="{{ site.github.tar_url }}" id="download-tar-gz" class="button"><span>Download .tar.gz</span></a>
           {% endif %}
+	{% unless site.github.hide_view_on_github %}
 	  {% if site.github.is_project_page %}
           <a href="{{ site.github.repository_url }}" id="view-on-github" class="button"><span>View on GitHub</span></a>
 	  {% else %}
           <a href="{{ site.github.owner_url }}" id="view-on-github" class="button"><span>View on GitHub</span></a>
 	  {% endif %}
+	{% endunless %}
         </section>
         <hr>
         <section id="main_content">
