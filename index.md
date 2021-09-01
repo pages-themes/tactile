@@ -1,8 +1,10 @@
 ---
-layout: default
+layout: miguel
+title: Soy Miguel Vidal
 ---
 
-# Mi portfolio
-## Elemento 1
-Imagen:
-![Thumbnail](favicon.ico)
+# Desarrollador web front-end
+# Experiencia con Wordpress, Shopify y Vue.js
+# Figma y Adobe XD
+
+# [Mi portfolio](./portfolio)
