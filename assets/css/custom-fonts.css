@@ -1,0 +1,8 @@
+@font-face {
+	font-family: "Aileron Black";
+	src: url("../fonts/Aileron-Black.otf");
+}
+
+header h1 {
+    font-family: 'Aileron Black', 'Chivo', 'Helvetica Neue', Helvetica, Arial, serif;
+}
